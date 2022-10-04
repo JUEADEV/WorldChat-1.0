@@ -1,0 +1,4 @@
+name: WorldChat
+version: '${project.version}'
+main: de.juea.worldchat.WorldChat
+api-version: 1.16
